@@ -1,0 +1,5 @@
+28/9/2026 --> New libraries: alembic, pymysql
+              Added Limitations to strings in models.py
+              Changed path to local on database.py
+              connected API to Microsoft Sql
+              need to do above on Mac
